@@ -1,0 +1,3 @@
+# LEI COMPLEMENTAR MUNICIPAL Nº 44/2024.
+DISPÕE SOBRE A CRIAÇÃO DOS §§ 10, 11, 12, 13 e 14 NO ARTIGO 48 DA LEI COMPLEMENTAR MUNICIPAL Nº 19/2019, E ADOTA OUTRAS PROVIDÊNCIAS.
+O PREFEITO CONSTITUCIONAL DO MUNICÍPIO DE SANTA RITA, ESTADO DA PARAÍBA, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei Complementar:
