@@ -1,0 +1,9 @@
+{
+  "path": "br-pb-santa-rita",
+  "code": "BR-PB-SANTA-RITA",
+  "name": "Santa Rita (city)",
+  "level": "municipality",
+  "parent": "br-pb",
+  "repo": "https://github.com/lexifina/brazil-santa-rita-city-law",
+  "build": "built: the law of Santa Rita from the Câmara Municipal's SAPL"
+}
